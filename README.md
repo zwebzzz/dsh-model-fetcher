@@ -33,7 +33,8 @@ if (request.provider !== undefined) {
 ## 安装
 
 ```bash
-dsh plugin add dsh-model-fetcher
+dsh plugin add dsh-model-fetcher            # npm（发布后）
+dsh plugin add github:zwebzzz/dsh-model-fetcher   # 直接从源码装
 ```
 
 或从本地目录安装：`dsh plugin add /path/to/model-fetcher`。装完重启 DSH 桌面端。
