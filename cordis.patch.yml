@@ -1,0 +1,4 @@
+# model-fetcher bundle：设置页「模型拉取」面板 + 只读工具 fetch_provider_models
+- insert:
+    - id: model-fetcher
+      name: 'dsh-model-fetcher'
